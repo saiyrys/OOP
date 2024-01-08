@@ -1,0 +1,7 @@
+C:\Users\Павел\Desktop\FileReader\OOP4\OOP4\bin\Debug\OOP4.exe.config
+C:\Users\Павел\Desktop\FileReader\OOP4\OOP4\bin\Debug\OOP4.exe
+C:\Users\Павел\Desktop\FileReader\OOP4\OOP4\bin\Debug\OOP4.pdb
+C:\Users\Павел\Desktop\FileReader\OOP4\OOP4\obj\Debug\OOP4.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\FileReader\OOP4\OOP4\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\FileReader\OOP4\OOP4\obj\Debug\OOP4.exe
+C:\Users\Павел\Desktop\FileReader\OOP4\OOP4\obj\Debug\OOP4.pdb
